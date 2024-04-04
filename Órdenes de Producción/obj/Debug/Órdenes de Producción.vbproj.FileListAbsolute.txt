@@ -1,0 +1,91 @@
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.exe.config
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.exe.manifest
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.application
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.exe
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.pdb
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.xml
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form1.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form10.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form11.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form17.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form18.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form19.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form2.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form20.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form3.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form4.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form5.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form6.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form7.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form8.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form9.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Resources.resources
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.vbproj.GenerateResource.cache
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.vbproj.CoreCompileInputs.cache
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.exe.manifest
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.application
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.exe
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.xml
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.pdb
+X:\Codigos nuevos rosa cafe y fogon\Codigos nuevos\PLANTA\CODIGOS TERMINADOS\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.vbprojAssemblyReference.cache
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.exe.config
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.exe.manifest
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.application
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.exe
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.pdb
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.xml
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.vbproj.AssemblyReference.cache
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form1.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form10.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form11.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form17.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form18.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form19.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form2.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form20.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form3.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form4.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form5.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form6.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form7.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form8.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form9.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Resources.resources
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.vbproj.GenerateResource.cache
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.vbproj.CoreCompileInputs.cache
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.exe.manifest
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.application
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.exe
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.xml
+C:\Users\PCDEV\Desktop\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.pdb
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.exe.config
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.exe.manifest
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.application
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.exe
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.pdb
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\bin\Debug\Órdenes de Producción.xml
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.vbproj.AssemblyReference.cache
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form1.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form10.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form11.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form17.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form18.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form19.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form2.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form20.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form3.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form4.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form5.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form6.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form7.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form8.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Form9.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.Resources.resources
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.vbproj.GenerateResource.cache
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.vbproj.CoreCompileInputs.cache
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.exe.manifest
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.application
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.exe
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.xml
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes de Producción.pdb
+C:\Users\PCDEV\Desktop\Codigos\ORDENES DE PRODUCCION\ORDENES DE PRODUCCION_6_nuevos\Órdenes de Producción\obj\Debug\Órdenes_de_Producción.index.resources
